@@ -9,7 +9,7 @@ This goal of the challenge was to build a responsive Blog Preview card as closel
 ## Links
 
 
-- [Live Site](https location)
+- [Live Site]([Jibola2004](https://jibola2004.github.io/Blog-preview-card/))
 
 ## Built With
 
